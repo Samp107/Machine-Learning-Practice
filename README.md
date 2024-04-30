@@ -4,7 +4,7 @@ _____
 ### Course structure
 
 
-[WEEK 1](https://github.com/Samp107/Machine-Learning-Practice) - 	End-to-end machine learning project on scikit-learn
+[WEEK 1](https://github.com/Samp107/Machine-Learning-Practice/tree/main/MLP) - 	End-to-end machine learning project on scikit-learn
 
 [WEEK 2](https://github.com/Samp107/Machine-Learning-Practice) - 	End-to-end machine learning project on scikit-learn (continued)
 
