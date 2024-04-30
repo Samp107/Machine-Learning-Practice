@@ -6,27 +6,27 @@ _____
 
 [WEEK 1](https://github.com/Samp107/Machine-Learning-Practice/tree/main/MLP) - 	End-to-end machine learning project on scikit-learn
 
-[WEEK 2](https://github.com/Samp107/Machine-Learning-Practice) - 	End-to-end machine learning project on scikit-learn (continued)
+[WEEK 2](https://github.com/Samp107/Machine-Learning-Practice/tree/main/MLP) - 	End-to-end machine learning project on scikit-learn (continued)
 
-[WEEK 3](https://github.com/Samp107/Machine-Learning-Practice) - 	Regression on scikit-learn - Linear regression Gradient-descent- Batch (MBGD) and Stochastic (SGD).
+[WEEK 3](https://github.com/Samp107/Machine-Learning-Practice/tree/main/MLP) - 	Regression on scikit-learn - Linear regression Gradient-descent- Batch (MBGD) and Stochastic (SGD).
 
-[WEEK 4](https://github.com/Samp107/Machine-Learning-Practice) - 	Polynomial regression, Regularized models
+[WEEK 4](https://github.com/Samp107/Machine-Learning-Practice/tree/main/MLP) - 	Polynomial regression, Regularized models
 
-[WEEK 5](https://github.com/Samp107/Machine-Learning-Practice) - 	Logistic regression
+[WEEK 5](https://github.com/Samp107/Machine-Learning-Practice/tree/main/MLP) - 	Logistic regression
 
-[WEEK 6](https://github.com/Samp107/Machine-Learning-Practice) - 	Classification on scikit-learn - Binary classifier
+[WEEK 6](https://github.com/Samp107/Machine-Learning-Practice/tree/main/MLP) - 	Classification on scikit-learn - Binary classifier
 
-[WEEK 7](https://github.com/Samp107/Machine-Learning-Practice) - 	Classification on scikit-learn - Multiclass classifier
+[WEEK 7](https://github.com/Samp107/Machine-Learning-Practice/tree/main/MLP) - 	Classification on scikit-learn - Multiclass classifier
 
-[WEEK 8](https://github.com/Samp107/Machine-Learning-Practice) - 	Support Vector Machines using scikit-learn
+[WEEK 8](https://github.com/Samp107/Machine-Learning-Practice/tree/main/MLP) - 	Support Vector Machines using scikit-learn
 
-[WEEK 9](https://github.com/Samp107/Machine-Learning-Practice) - 	Decision Trees using scikit-learn
+[WEEK 9](https://github.com/Samp107/Machine-Learning-Practice/tree/main/MLP) - 	Decision Trees using scikit-learn
 
-[WEEK 10](https://github.com/Samp107/Machine-Learning-Practice) - 	Ensemble Learning and Random Forests using scikit-learn
+[WEEK 10](https://github.com/Samp107/Machine-Learning-Practice/tree/main/MLP) - 	Ensemble Learning and Random Forests using scikit-learn
 
-[WEEK 11](https://github.com/Samp107/Machine-Learning-Practice) - 	Clustering using scikit-learn
+[WEEK 11](https://github.com/Samp107/Machine-Learning-Practice/tree/main/MLP) - 	Clustering using scikit-learn
 
-[WEEK 12](https://github.com/Samp107/Machine-Learning-Practice) - 	Neural networks models in scikit-learn
+[WEEK 12](https://github.com/Samp107/Machine-Learning-Practice/tree/main/MLP) - 	Neural networks models in scikit-learn
 
 ______
 
